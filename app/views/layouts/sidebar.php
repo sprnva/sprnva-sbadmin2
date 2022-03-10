@@ -3,7 +3,7 @@
 use App\Core\App;
 ?>
 <!-- Sidebar -->
-<ul class="navbar-nav bg-gradient-light sidebar sidebar-light accordion" id="accordionSidebar">
+<ul class="navbar-nav sidebar sidebar-light accordion" id="accordionSidebar">
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= route('/') ?>">
